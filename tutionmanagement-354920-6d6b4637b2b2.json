@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tutionmanagement-354920",
+  "private_key_id": "6d6b4637b2b21e19e249e2d657984389152d9677",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCWVoXyVgrNmmB5\nnpgYcMn6RWyD0TLllGH6gc/XT8+OLFa/OU59rHvhlhSGaDBHV64sZH0A5V3At5ef\niYWXLsVcrrK+spfr1qe1fu42IgzG/XEuM4P+5Ei3WUIYrveq8/Ibd5w5VtzlQC7s\nRlkOWW3gOeV1Yrzx/PAjdSg0WH8TGj02A6qLlZMd8xEWAy6DD++KXx+6+fEvE53T\n6or9x7q1TQR/TvBdSfHkHO5TFhEXiZFxiDOAEDJGhrgIXkuxxSrKNVqs+2gCSSDK\n+t5iEO4PJ0i2oENDDaOrZiQP3IIEDP62zoxTjV6l99moHJRuGN4rvqcihNEsRdwR\ngbAFQU83AgMBAAECggEAFijSvZGpLf0fU03pJVEatGUfRZ7EXcqtVntj41zEPzSR\n5MXRp/yQlgPFKrqYwytNZQW61zL3yrxFASMIKeye8rZdanZwpjaRqdL30crbD0m0\nMRcu0ZdckIn7kB/aKbyjZyEOSfVfwfrf77u+zLqp0281P0Q6jYC29MMEFhMlR+9Q\nLAYtS5C9LZFKDTwqLHC4bDeTYnzHlsoFRnBBLFlQWJ7uUl88aiBwat/qn5dcbIzg\n7x+doAyHSDe8GylpBxKj4EileDANC7pIzIuoCGZZF9/Rhpdr5arwHqeYX+rGCBqO\noJU7Ghqz2yqx0G0usbJaoBsyS4+koMxrN/uhAm4xwQKBgQDUFCX4jGGb9uQNMJf2\nZzBBu9PtD7O9GCG+HCK1G4owKHEzTidRdlphNQxbH7pZybsrp+0M3rG1wNdwds65\nDQfLQc7BRHQMtuRxhn8WMcAIMOVwqUhlMGwsMiTnywbbMhe8wLG/LoXvqpgc7SpW\nKFvOK5f0sMgvrCECYh4wJsEArwKBgQC1eQuPZLN3/hNfGU1XeFay3sMtvPj6OQkW\nTEB6fgAleh12NLe2Zh4+3ejjxt0Kadzhfoph5UK7JqABopZaIWjPSimZtEgKGeg4\nyTBKrafjQ+QZZI893yTCKhPJDii1DfDW0GD4aXW7XIMd2nTB9ZJVlII4kov4TmZ3\naJvC6knr+QKBgBSsxird3KIsxny2sQnXc2/lFLr2neogUSHMcmG/hpA9URPUWabq\nZ9M0LbkwdaVNMk8GNujbSO3UF+yh2HNX3tuk1bgnqTyYE9sxZnBOd08VHTkHd8RN\nnS4N0WU7eLajwoanLmzZ5zq/IccoI8l0c8a8nzq+hTWIjUtDL3g4PvaHAoGBAI5M\nspHohwpqg0opDwqt5F4ya54r9phPrR59AHqM3xSEIyITyJMQlFr7q6kgwSdvR7LS\nhTSqj58tdH6TvY5DcGpLXz+VrH+vPPd6W5HThjihffWjcuczWSGf2Q/pOGZw3g+0\nKrXgDF+09WOtb6zAIdVVtJ8j2voEkDjGII3BJeIRAoGBAKujedagT24j+9YZ/srI\ndblA5hYZCxI9ZDFNk0+QOdIHC/nar26iplmiWiVrWzxJljS6MC69k7IsK2P7UEmO\nLyVp+VmEh/vOG2TEE/4QrSIAOxc6MaC8VVytNVUVt1TbdR9Vn3AsPcrBseHro1D5\nufc7Z7IdN4ktdhY6nx6LDZHf\n-----END PRIVATE KEY-----\n",
+  "client_email": "tutionmanagekaro@tutionmanagement-354920.iam.gserviceaccount.com",
+  "client_id": "107007214962682816148",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tutionmanagekaro%40tutionmanagement-354920.iam.gserviceaccount.com"
+}
