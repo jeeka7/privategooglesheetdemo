@@ -1,6 +1,8 @@
 import streamlit as st
 import gspread
 
+st.write(st.secrets)
+
 #sa = gspread.service_account()
 #sh = sa.open("tutionmanagement")
 
