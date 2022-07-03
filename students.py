@@ -1,9 +1,10 @@
 import streamlit as st
 import gspread
 
-st.write(st.secrets)
+#st.write(st.secrets)
 
-#sa = gspread.service_account()
+
+service_account = gspread.service_account_from_dict(st.secrets["gcp_service_account"])
 #sh = sa.open("tutionmanagement")
 
 #wks = sh.worksheet("student")
