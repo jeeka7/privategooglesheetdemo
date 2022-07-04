@@ -12,7 +12,7 @@ st.write(st.secrets["private_gsheets_url"])
 sht = service_account.open_by_url(st.secrets["private_gsheets_url"])
 
 
-wks = sht.worksheet(students)
+wks = sht.worksheet("students")
 
 get_values = wks.get_all_values()
 
