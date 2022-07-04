@@ -12,9 +12,9 @@ st.write(st.secrets["private_gsheets_url"])
 sht = service_account.open_by_url(st.secrets["private_gsheets_url"])
 
 
-worksheet = sht.worksheet(students)
+wks = sht.worksheet(students)
 
-get_values = worksheet.get_all_values()
+get_values = wks.get_all_values()
 
 df= pd.DataFrame(get_values)
 
