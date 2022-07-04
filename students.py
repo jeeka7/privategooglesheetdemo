@@ -20,4 +20,4 @@ df= pd.DataFrame(get_values)
 
 st.write(get_values)
 
-st.write(dtype(get_values))
+st.write(type(get_values))
