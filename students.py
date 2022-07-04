@@ -21,3 +21,6 @@ df= pd.DataFrame(get_values)
 st.write(get_values)
 
 st.write(type(get_values))
+
+
+wks.update('B2', "it's down there somewhere, let me take another look.")
