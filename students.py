@@ -8,4 +8,4 @@ service_account = gspread.service_account_from_dict(st.secrets["gcp_service_acco
 
 st.write(st.secrets["private_gsheets_url"])
 
-gc.open_by_url(st.secrets["private_gsheets_url"])
+service_account.open_by_url(st.secrets["private_gsheets_url"])
