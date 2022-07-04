@@ -19,3 +19,5 @@ get_values = wks.get_all_values()
 df= pd.DataFrame(get_values)
 
 st.write(get_values)
+
+st.write(dtype(get_values))
